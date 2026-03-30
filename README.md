@@ -57,6 +57,7 @@ options (optional):
 ```
 # Cite
 If you use MCFM in a scientific publication, we would appreciate citations to the following paper:
+```bibtex
 @ARTICLE{11165416,
   author={Xing, Mali and Zhai, Zilang and Deng, Muqing and Cai, Qianqian and Ren, Hongru and Wang, Tian},
   journal={IEEE Transactions on Computational Social Systems}, 
@@ -67,7 +68,7 @@ If you use MCFM in a scientific publication, we would appreciate citations to th
   pages={1-14},
   keywords={Sentiment analysis;Reliability;Feature extraction;Transformers;Semantics;Tensors;Visualization;Accuracy;Reliability engineering;Mutual information;Competition mechanism;feature decomposition;multimodal sentiment analysis (MSA);orthogonal channel attention (OCA)},
   doi={10.1109/TCSS.2025.3598637}}
-
+```
 
 Copyright © 2026 [weedy3000]. All rights reserved.
 
